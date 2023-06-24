@@ -1,17 +1,22 @@
 {
-    "name": "harimayco/laravel-menu",
+    "name": "exceptio/laravel-menu",
     "description": "drag and drop menu generator like wordpress for laravel 5",
     "keywords": ["Laravel", "Menu", "Wordpress", "Builder"],
     "authors": [
+        {
+            "name": "Ahsan Zahid Chowdhury",
+            "email": "azc.pavel@gmail.com",
+            "role": "Developer"
+        },
     	{
             "name": "Rendy Harimayco",
             "email": "rendyharimayco@gmail.com",
-            "role": "Developer"
+            "role": "Original Developer"
         },
         {
             "name": "Cristian Garcia",
             "email": "informacion@cristiangarcia.co",
-            "role" : "Original Developer"
+            "role": "Original Developer"
         }
     ],
     "require": {
